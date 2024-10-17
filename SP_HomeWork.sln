@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SP_Intro_Processes", "01_SP_Intro_Processes\01_SP_Intro_Processes.csproj", "{5E9F30BF-44E7-4945-91FF-F069B0F82F08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SP_Threads", "02_SP_Threads\02_SP_Threads.csproj", "{3EF19039-43DF-4E64-BB0F-68E6BD302DBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5E9F30BF-44E7-4945-91FF-F069B0F82F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E9F30BF-44E7-4945-91FF-F069B0F82F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E9F30BF-44E7-4945-91FF-F069B0F82F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF19039-43DF-4E64-BB0F-68E6BD302DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF19039-43DF-4E64-BB0F-68E6BD302DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF19039-43DF-4E64-BB0F-68E6BD302DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF19039-43DF-4E64-BB0F-68E6BD302DBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
